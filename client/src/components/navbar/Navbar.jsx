@@ -35,21 +35,9 @@ const Navbar = () => {
           <div className="profile">
             <ArrowDropDown className="icon" />
             <div className="options">
-              <span className="pointer">로그아웃</span>
-              <span>키즈</span>
-              <span>새 프로필</span>
-              <span>프로필 편집</span>
-              <span>이어보기</span>
-              <span>다 본 작품</span>
-              <span>설정</span>
-              <span>공지사항</span>
-              <span>초대하기</span>
-              <span>고객센터</span>
-            </div>
-            {/* <div className="options">
               <span>Settings</span>
               <span>Logout</span>
-            </div> */}
+            </div>
           </div>
         </div>
       </div>
