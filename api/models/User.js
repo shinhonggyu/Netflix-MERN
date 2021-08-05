@@ -12,4 +12,5 @@ const UserSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
+// model name, reference point
 module.exports = mongoose.model('User', UserSchema);
